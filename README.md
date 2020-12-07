@@ -1,0 +1,2 @@
+# RaidBot
+Discord Raid Bot.
